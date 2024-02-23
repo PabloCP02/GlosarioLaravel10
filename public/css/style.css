@@ -1,0 +1,57 @@
+.contenedor{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(29, 41, 133);
+    color: white;
+}
+
+.fondoHeader{
+    background-color: rgb(29, 41, 133);
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+nav{
+    background-color: rgb(25, 30, 65);
+}
+
+nav a{
+    color: white;
+}
+
+.contenido{
+    background-color: rgb(223, 223, 212);
+}
+
+.glosario{
+    width: 400px;
+    height: 300px;
+}
+
+.nav-link{
+    color: yellow;
+}
+
+.seleccionado{
+    background-color: rgb(6, 26, 112);
+    color: yellow;
+    font-weight: bold;
+}
+
+.home{
+    font-size: 30px;
+}
+
+.logoEmpresa{
+    border-radius: 50%;
+}
+
+.herramientas{
+    height: 100px;
+}
